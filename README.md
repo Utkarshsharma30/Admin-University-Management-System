@@ -1,3 +1,4 @@
+Admin-University-Management-System
 I have developed a Java desktop application to manage college administration.
 This application enables administrators to view and modify student and teacher details, including attendance, fees, and grades.
 It also allows them to add and remove students and teachers from the database.
